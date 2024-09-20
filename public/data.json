@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Ball",
+      "price": 40,
+      "availableCount": 25
+    },
+    {
+      "id": 2,
+      "name": "Bat",
+      "price": 1200,
+      "availableCount": 5
+    },
+    {
+      "id": 3,
+      "name": "HP pendrive",
+      "price": 350,
+      "availableCount": 31
+    },
+    {
+      "id": 4,
+      "name": "",
+      "price": 349.99,
+      "availableCount": 2
+    },
+    {
+      "id": 5,
+      "name": "Keyboard",
+      "price": 1100,
+      "availableCount": 8
+    },
+    {
+      "id": 6,
+      "name": "Shoes",
+      "price": 850,
+      "availableCount": 5
+    },
+    {
+      "id": 7,
+      "name": "Watch",
+      "price": 2000,
+      "availableCount": 9
+    },
+    {
+      "id": 8,
+      "name": "Laptop",
+      "price": 40000,
+      "availableCount": 9
+    }
+  ]
+}
