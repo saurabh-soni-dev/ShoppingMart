@@ -1,9 +1,9 @@
-import React from 'react';
-import Checkout from './Checkout';
+import React from "react";
+import Checkout from "./Checkout";
 
 export default function App() {
   return (
-    <div>
+    <div className="App">
       <Checkout />
     </div>
   );
